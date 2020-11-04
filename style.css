@@ -24,7 +24,7 @@ background-attachment: fixed;
 #Start{
     font-size: 35px;
     color: white;
-    font-family: 'Teko', sans-serif;
+    font-family: 'Adamina', serif;
     text-align: center;
     padding-top: 25px;
 }
@@ -32,9 +32,9 @@ background-attachment: fixed;
 #text{
     font-size: 25px;
     color: white;
-    font-family: 'Teko', sans-serif;
+    font-family: 'Adamina', serif;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 75px;
     padding-right: 500px;
     padding-left: 500px;
 }
