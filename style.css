@@ -39,3 +39,21 @@ background-attachment: fixed;
     padding-left: 500px;
 }
 
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape) {
+    #text{
+        font-size: 15px;
+        padding-top: 50px;
+        padding-left: 50px;
+        padding-right: 50px;   
+    }
+}
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait) {
+    #text{
+        font-size: 15px;
+        padding-left: 50px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+}
+
