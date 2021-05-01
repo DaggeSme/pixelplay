@@ -1,0 +1,8 @@
+{
+  "algorithm": "aes-256-cbc",
+  "encryptedDataHex": "7a6c93e304fb23218d199ce78b3e3ca17523e1de9e63b734bb19a9424a1381f8a60cbdb7fdaa3a2672629dc35f93fe0e63a8fdbe6d3394c2344e079bd37f3eeb3496e5675857bad861d76b4871171871",
+  "wasEncryptionKeySha256": true,
+  "ivVectorHex": "26356f414d3b60203c4d2579667e3a63",
+  "payloadPadding": "pkcs7",
+  "encryptionDate": "2021-05-01T17:41:19.836Z"
+}
