@@ -15,7 +15,7 @@ header *{
 }
 
 body{
-    background-image: url("start.PNG");
+    background-image: url("start.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -41,7 +41,7 @@ body{
 }
 
 #fyranollfyra{
-    background-image: url("404.jpg");
+    background-image: url("404.JPG");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
